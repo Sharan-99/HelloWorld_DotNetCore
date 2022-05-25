@@ -1,0 +1,16 @@
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.exe
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.deps.json
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.runtimeconfig.json
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.runtimeconfig.dev.json
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.dll
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\ref\HelloWorldDotnetCore.dll
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\bin\Debug\net5.0\HelloWorldDotnetCore.pdb
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.AssemblyInfoInputs.cache
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.AssemblyInfo.cs
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.dll
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\ref\HelloWorldDotnetCore.dll
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.pdb
+C:\Users\2091199\source\repos\HelloWorldDotnetCore\HelloWorldDotnetCore\obj\Debug\net5.0\HelloWorldDotnetCore.genruntimeconfig.cache
